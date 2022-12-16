@@ -11,6 +11,6 @@ And you can make lists
 - item 2
 - item 3
 
-<!-- more -->
+<!--more-->
 
 And this is the stuff under the read more.
