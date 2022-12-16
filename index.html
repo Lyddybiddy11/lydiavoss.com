@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+  {% for post in site.posts %}
+
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+        {{ post.excerpt }}
+
+      <small><a href="{{ site.baseurl }}{{ post.url }}">Permalink</a> | Date: {{ post.date | date: "%D" }} | Author: {{ post.author }}</small>
+
+  <hr></hr>
+
+  {% endfor %}
