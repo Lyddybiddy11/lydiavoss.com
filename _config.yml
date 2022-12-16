@@ -3,4 +3,4 @@ description: An example of a simple blog for artists
 logo: _assets/img/logo.png
 show_downloads: false
 google_analytics: 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal  
