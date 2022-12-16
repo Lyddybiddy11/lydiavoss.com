@@ -1,5 +1,6 @@
 title: A Template Blog
 description: An example of a simple blog for artists
+logo:
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
