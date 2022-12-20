@@ -71,10 +71,15 @@ li a.tag_name:hover {
 
 {% if site.layout == 'single_column' %}
 
+wrapper {
+  width: 600px;
+}
+
 header {
   position: relative;
   width: inherit;
   float: none;
+  padding-bottom: 25px;
 }
 
 section {
