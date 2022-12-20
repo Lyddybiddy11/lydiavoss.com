@@ -30,7 +30,10 @@
         </ul>
         
 <!-- social media links -->
-        <p><small><a href="feed.xml" title="RSS"><img src="/assets/img/icons/rss.png" width="24px"></a></small></p>
+        <p>
+          <a href="feed.xml" title="RSS"><img src="/assets/img/icons/rss.png" width="24px"></a> 
+          {% if site.instagram %}<a href="http://www.instagram.com/{{ site.instagram }}" title="Instagram"><img src="/assets/img/icons/instagram.png" width="24px"></a> {% endif %}
+        </p>
       </header>
       <section>
 
