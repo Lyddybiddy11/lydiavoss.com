@@ -21,3 +21,16 @@ h1, h2, h3 {
   font-family: {{ site.header_font }}, serif;
   color: {{ site.color1 }};
 }
+
+
+a {
+  font-weight: normal;
+  color: {{ site.color1 }};
+  text-decoration: underline;
+}
+
+a:hover {
+  font-weight: normal;
+  color: {{ site.color2 }};
+  text-decoration: none;
+}
