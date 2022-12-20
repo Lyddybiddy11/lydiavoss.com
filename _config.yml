@@ -11,6 +11,7 @@ plugins:
   - jekyll-feed
   
 # style
+google_fonts: yes #yes or no
 body_font: Chivo Mono #font used for body text
 header_font: Silkscreen #font used for title and header
 background_color: "#d4cacd"
