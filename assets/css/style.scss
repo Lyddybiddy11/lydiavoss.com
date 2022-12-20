@@ -13,9 +13,10 @@
 
 body {
   font-family: {{ site.body_font }}, sans-serif;
+  background: {{ background_color }};
+  color: {{ font_color }};
 }
 
 h1, h2, h3 {
   font-family: {{ site.header_font }}, serif;
 }
-
