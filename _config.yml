@@ -8,5 +8,5 @@ excerpt_separator: <!--more-->
 plugins: 
   - jekyll-paginate
   - jekyll-feed
-body_font: Archivo
+body_font: Chivo Mono
 header_font: Itim
