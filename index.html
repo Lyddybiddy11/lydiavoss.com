@@ -8,7 +8,7 @@ layout: default
 
         {{ post.excerpt }}
 
-      <small><a href="{{ site.baseurl }}{{ post.url }}">Permalink</a> | Date: {{ post.date | date: "%D" }} | tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+      <small><a href="{{ site.baseurl }}{{ post.url }}">Permalink</a> | Date: {{ post.date | date: "%D" }} | tags: <em>{{ post.tags | join: "</em> - <em>" }}</em></small>
 
   <hr></hr>
 
