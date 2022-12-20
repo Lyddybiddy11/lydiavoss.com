@@ -108,33 +108,6 @@ li a.menu_item {
   padding: 3px 8px 3px 0px;
 }
 
-{% elsif site.layout == 'right' %}
-
-header {
-  width: 270px;
-  position: fixed;
-  float: right;
-}
-
-section {
-  float: left;
-  width: 500px;
-  padding-bottom:50px;
-}
-
-footer {
-  float: right;
-  width: 270px;
-  position: fixed;
-  padding-bottom:50px;
-}
-
-ul.menu {
-  list-style-type: none;
-  margin: 0px;
-  padding: 0px;
-}
-
 {% else %}
 
 ul.menu {
