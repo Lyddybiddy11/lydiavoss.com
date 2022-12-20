@@ -17,4 +17,4 @@ background_color: "#d4cacd"
 font_color: "#000"
 color1: "#BB2649" #color of links and headers
 color2: "#FFF" #color of links on hover
-layout: right #"left" "right" or "single_column"
+layout: single_column #"left" "right" or "single_column"
