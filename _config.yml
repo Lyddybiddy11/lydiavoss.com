@@ -8,3 +8,5 @@ excerpt_separator: <!--more-->
 plugins: 
   - jekyll-paginate
   - jekyll-feed
+body_font: Archivo
+header_font: Itim
