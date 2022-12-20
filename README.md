@@ -1,2 +1,2 @@
-# artistsblog
-I am going to create a simple artists blog tutorial and this is my test page.
+# Simple
+A modified Minimal theme for artists. Just fork it, customize it, and start posting!
