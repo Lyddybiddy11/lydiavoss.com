@@ -14,3 +14,5 @@ Helpful resources to set up your website
 - [W3 Schools Online Web Tutorials](https://www.w3schools.com/)
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Google Fonts](https://fonts.google.com/)
+- [Disqus](https://disqus.com/)
+- [Commentbox.io](https://commentbox.io/)
