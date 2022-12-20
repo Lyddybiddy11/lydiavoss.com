@@ -13,7 +13,7 @@
 
 body {
   font-family: {{ site.body_font }}, sans-serif;
-  background: {{ background_color }};
+  background: {{ background_color }}; 
   color: {{ font_color }};
 }
 
