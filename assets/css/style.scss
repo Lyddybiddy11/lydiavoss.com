@@ -75,7 +75,7 @@ header, footer {
   float: right;
 }
 
-{% elseif site.layout == "single" %}
+{% elsif site.layout == "single" %}
 
 header, footer {
   float: none;
