@@ -9,3 +9,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Archivo&family=Itim&display=swap');
 
+/* Basic Styling */
+
+body {
+  font-family: {{ site.body_font }}, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: {{ site.header_font }}, serif;
+}
+
