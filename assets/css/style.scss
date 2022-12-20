@@ -66,3 +66,22 @@ li a.tag_name:hover {
   background-color: {{ site.color2 }};
   color: {{ site.color1 }};
 }
+
+/* layout */
+
+{% if site.layout == "right" %}
+
+header, footer {
+  float: right;
+}
+
+{% elseif site.layout == "single" %}
+
+header, footer {
+  float: none;
+  width: inherit;
+  position: relative;
+}
+
+{% else %}
+{% endif %}
