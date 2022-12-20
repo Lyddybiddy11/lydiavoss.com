@@ -5,3 +5,6 @@ show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
 excerpt_separator: <!--more-->
+plugins: 
+  - jekyll-paginate
+  - jekyll-feed
