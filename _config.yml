@@ -4,6 +4,8 @@ description: A modified Minimal theme for artists
 google_analytics: 
 theme: jekyll-theme-minimal
 excerpt_separator: <!--more-->
+paginate: 5
+paginate_path: "/page:num/"
 plugins: 
   - jekyll-paginate
   - jekyll-feed
