@@ -29,8 +29,8 @@ a {
   text-decoration: underline;
 }
 
-a:hover {
+a:hover, a:focus {
   font-weight: normal;
-
+  color: {{ site.color2 }};
   text-decoration: none;
 }
