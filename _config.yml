@@ -1,6 +1,6 @@
-title: An Artist Blog
+title: Simple
 logo: /assets/img/logo.png
-description: An example of a simple blog for artists
+description: A modified Minimal theme for artists
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
