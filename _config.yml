@@ -1,19 +1,19 @@
-title: Simple 
-logo: 
-description: A modified Minimal theme for artists
+title: Simple #Website Name
+logo: #/assets/img/logo.png
+description: A modified Minimal theme for artists #Website Description
 google_analytics: 
 theme: jekyll-theme-minimal
 excerpt_separator: <!--more-->
-paginate: 5
+paginate: 5 #Posts per page
 paginate_path: "/page:num/"
 plugins: 
   - jekyll-paginate
   - jekyll-feed
   
 # style
-google_fonts: yes #yes or no
-body_font: Chivo Mono #font used for body text
-header_font: Silkscreen #font used for title and header
+google_fonts: no #yes or no
+body_font: Verdana #font used for body text
+header_font: Times New Roman #font used for title and header
 background_color: "#d4cacd"
 font_color: "#000"
 color1: "#BB2649" #color of links and headers
