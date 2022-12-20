@@ -71,7 +71,7 @@ li a.tag_name:hover {
 
 {% if site.layout == 'single_column' %}
 
-wrapper {
+.wrapper {
   width: 600px;
 }
 
@@ -106,6 +106,26 @@ li a.menu_item {
   float: left;
   display: block;
   padding: 3px 8px 3px 0px;
+}
+
+{% elsif site.layout == 'right' %}
+
+header {
+  float: right;
+}
+
+section {
+  float: left;
+}
+
+footer {
+  float: right;
+}
+
+ul.menu {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
 }
 
 {% else %}
