@@ -11,8 +11,8 @@ plugins:
 # style
 body_font: Chivo Mono #font used for body text
 header_font: Silkscreen #font used for title and header
-background_color: red
-font_color: white
+background_color: #000
+font_color: #FFF
 color1:
 color2:
 color3:
