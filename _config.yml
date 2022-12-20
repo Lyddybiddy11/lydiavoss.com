@@ -8,5 +8,9 @@ excerpt_separator: <!--more-->
 plugins: 
   - jekyll-paginate
   - jekyll-feed
-body_font: Chivo Mono
-header_font: Nabla
+# style
+body_font: Chivo Mono #font used for body text
+header_font: Silkscreen #font used for title and header
+primary_color: 
+secondary_color:
+highlight_color:
