@@ -9,4 +9,4 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
 body_font: Chivo Mono
-header_font: Itim
+header_font: Nabla
