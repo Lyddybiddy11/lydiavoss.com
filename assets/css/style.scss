@@ -69,13 +69,13 @@ li a.tag_name:hover {
 
 /* layout */
 
-{% if site.layout == "right" %}
+{% if site.layout == 'right' %}
 
 header, footer {
   float: right;
 }
 
-{% elsif site.layout == "single" %}
+{% elsif site.layout == 'single_column' %}
 
 header, footer {
   float: none;
