@@ -13,7 +13,7 @@ plugins:
 # style
 google_fonts: Yes #yes or no
 body_font: Karla #font used for body text
-header_font: Lora #font used for title and header
+header_font: Chivo Mono #font used for title and header
 background_color: "#d4cacd"
 font_color: "#000"
 color1: "#BB2649" #color of links and headers
