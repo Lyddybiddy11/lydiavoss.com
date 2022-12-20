@@ -5,12 +5,12 @@ tags: ["Resources"]
 publish: true
 ---
 
-Helpful resources to set up your website.
+Helpful resources to set up your website
 
-- GitHub Pages
-- Adding a Custom Domain
-- Namecheap
-- GoDaddy
-- W3 Schools
-- Markdown
-- Google Fonts
+- [GitHub Pages](https://pages.github.com/)
+- [Adding a Custom Domain to your GitHub Page](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+- [Namecheap](http://www.namecheap.com)
+- [GoDaddy](http://www.godaddy.com)
+- [W3 Schools Online Web Tutorials](https://www.w3schools.com/)
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [Google Fonts](https://fonts.google.com/)
