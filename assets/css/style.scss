@@ -111,15 +111,22 @@ li a.menu_item {
 {% elsif site.layout == 'right' %}
 
 header {
+  width: 270px;
+  position: fixed;
   float: right;
 }
 
 section {
   float: left;
+  width: 500px;
+  padding-bottom:50px;
 }
 
 footer {
   float: right;
+  width: 270px;
+  position: fixed;
+  padding-bottom:50px;
 }
 
 ul.menu {
