@@ -7,7 +7,7 @@ layout: default
 
 {{content}}
 
-{% if page.tags %}
+{% if post.tags %}
   <small>tags:  {% assign tags = post.tags %}
   {% for tag in tags %}
   <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
