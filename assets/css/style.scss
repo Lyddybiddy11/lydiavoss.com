@@ -69,27 +69,24 @@ li a.tag_name:hover {
 
 /* layout */
 
-{% if site.layout == 'right' %}
+{% if site.layout == 'single_column' %}
 
 header {
-  float: right;
-}
-
-footer {
-  float: right;
-}
-
-{% elsif site.layout == 'single_column' %}
-
-header {
-  float: none;
-  width: inherit;
   position: relative;
+  width: inherit;
+  float: none;
+  padding-bottom: 25px;
+}
+
+section {
+  position: relative;
+  width: 590px;
+  float: none;
 }
 
 footer {
-  float: none;
   width: inherit;
+  float: none;
   position: relative;
 }
 
