@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Additional Resources
-tags: ["Resources"]
+tags: ["resources"]
 publish: true
 ---
 
