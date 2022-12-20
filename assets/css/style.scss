@@ -58,10 +58,11 @@ li a.tag_name {
   padding: 3px 8px;
   font-style: italic;
   text-decoration: underline;
-  font-color: {{ site.color3 }};
+  color: {{ site.color3 }};
 }
 
 li a.tag_name:hover {
   text-decoration: none;
   background-color: {{ site.color2 }};
+  color: {{ site.color3 }};
 }
