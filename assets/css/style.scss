@@ -25,15 +25,19 @@ h1, h2, h3 {
 }
 
 a {
-  font-weight: normal;
+  font-weight: 400;
   color: {{ site.color1 }};
   text-decoration: underline;
 }
 
-a:hover, a:active {
-  font-weight: normal;
+a:hover, a:active, a:focus {
+  font-weight: 400;
   color: {{ site.color2 }};
   text-decoration: none;
+}
+
+h1 a, h2 a, h3 a{
+  font-weight: 600;
 }
 
 hr {
