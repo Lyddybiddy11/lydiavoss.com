@@ -9,6 +9,6 @@ To start your own website using *Simple*
 
 - Fork [the repository](https://github.com/danaamundsen/simple) on GitHub
 - Change your repository settings to GitHub Pages
-- Upload your own logo and favicon to the `assets/img/` folder
+- Upload your own logo and favicon to the `assets/img/` folder (optional)
 - Edit the `_config.yml` file with your own fonts, colors, and socials
 - Delete the existing posts and start posting
