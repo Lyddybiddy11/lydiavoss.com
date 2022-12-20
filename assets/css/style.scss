@@ -94,6 +94,19 @@ footer {
   position: relative;
 }
 
+ul.menu {
+  list-style-type: none;
+  float: left;
+  margin: 0px;
+  padding: 0px 10px;
+}
+
 {% else %}
+
+ul.menu {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
 
 {% endif %}
