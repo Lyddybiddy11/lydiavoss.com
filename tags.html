@@ -6,7 +6,7 @@ title: tags
 
 <h2>Tags</h2>
 
-<ul class="tag">
+<ul>
     {% for tag in site.tags %}
 	<li><a href="#{{ tag[0] | slugify }}" class="tag_name">#{{ tag[0] }}</a></li>
     {% endfor %}
@@ -17,14 +17,10 @@ title: tags
     {% for tag in site.tags %}
     <p id="{{ tag[0] | slugify }}"><b>#{{ tag[0] }}</b></p>
 
-	<p>
+	<ul>
        {% for post in tag[1] %}
-		{% if post.image %}
-	<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://www.icefairy.net/artlog/thumb/{{ post.image }}" class="thumb" alt="{{ post.desc }}"></a> 
-      {% else %}
-	<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.date | date: "%D" }}"><img src="http://www.icefairy.net/meta/icefairy.png" class="thumb" alt="{{ post.desc }}"></a>
-	{% endif %}
+	<li><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a> {{ post.date | date: "%D" }}</li?
 	{% endfor %}
-	</p>
+	<//ul>
 
     {% endfor %}
