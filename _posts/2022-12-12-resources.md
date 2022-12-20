@@ -16,4 +16,4 @@ Helpful resources to set up your website
 - [Google Fonts](https://fonts.google.com/)
 - [Disqus](https://disqus.com/)
 - [Commentbox.io](https://commentbox.io/)
-- [ifttt](https://ifttt.com/)
+- [IFTTT](https://ifttt.com/)
