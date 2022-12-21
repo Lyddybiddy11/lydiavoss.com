@@ -19,7 +19,7 @@ background_color: "#F0EEE9"
 font_color: "#28282D"
 color1: "#6667AB" #color of links and headers
 color2: "#615C61" #color of links on hover
-layout: #"single_column" option
+layout: #single_column option
 
 # social media (full urls)
 instagram: 
