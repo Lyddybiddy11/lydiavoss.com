@@ -1,5 +1,6 @@
 title: Simple #Website Name
 logo: /assets/img/logo.png
+favicon: #eg. /assets/img/favicon.png
 description: A modified Minimal theme for artists #Website Description
 google_analytics: 
 theme: jekyll-theme-minimal
