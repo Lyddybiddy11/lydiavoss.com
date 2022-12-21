@@ -78,7 +78,7 @@ li a.tag_name {
 li a.tag_name:hover {
   text-decoration: none;
   background-color: {{ site.color2 }};
-  color: {{ site.background }};
+  color: {{ site.background_color }};
 }
 
 /* layout */
