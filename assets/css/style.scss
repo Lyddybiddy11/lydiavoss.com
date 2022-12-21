@@ -31,7 +31,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-  font-weight: 400;
+  font-weight: inherit;
   color: {{ site.color2 }};
   text-decoration: none;
 }
@@ -78,7 +78,7 @@ li a.tag_name {
 li a.tag_name:hover {
   text-decoration: none;
   background-color: {{ site.color2 }};
-  color: {{ site.color1 }};
+  color: {{ site.background }};
 }
 
 /* layout */
