@@ -46,7 +46,7 @@ published: false
 The `layout` will always be `post`.  
 The `title` is where you write the title of the post as you'd like it to appear on your website.  
 `tags` is where you can categorize the post. You can create whatever tags you want for your blog, and you can add as many or as few as you would like. Tags should be written as shown here, within brackets and with each tag in quotation marks.  
-`published` tells GitHub whether you want the post to appear live on your website or not. If you are drafting a post you may wish to keep it unpublished, or maybe you changed your mind about a post but don't want to delete it completely.
+`published` is followed by `true` or `false` and tells GitHub whether you want the post to appear live on your website or not. If you are drafting a post you may wish to keep it unpublished, or maybe you changed your mind about a post but don't want to delete it completely.
 
 ### Writing Your Post
 
