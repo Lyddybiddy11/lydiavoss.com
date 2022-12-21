@@ -13,7 +13,7 @@ To start your own website using *Simple*
 
 2. Go to your repository **Settings** > **Pages** and under **Build and Development** set up your **source** and **branch** as follows.
 
-![A screenshot showing the settings described above. You will find the repository settings in the top menu of your repository, and the pages settings will be in the left hand menu of the settings page. Under 'Build and Development' you will set the source to 'Deploy from Branch' and the branch to 'main' 'root' then hit 'save'.](assets/img/post/getting-started-02)
+![A screenshot showing the settings described above. You will find the repository settings in the top menu of your repository, and the pages settings will be in the left hand menu of the settings page. Under 'Build and Development' you will set the source to 'Deploy from Branch' and the branch to 'main' 'root' then hit 'save'.](assets/img/post/getting-started-02.png)
 
 3. Upload your own logo and favicon to the `assets/img/` folder (optional)
 4. Edit the `_config.yml` file with your own fonts, colors, and socials
