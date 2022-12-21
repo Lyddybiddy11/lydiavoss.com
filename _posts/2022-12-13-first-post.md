@@ -28,7 +28,7 @@ For ease of editing, I always choose the 'soft wrap' option to allow the text to
 
 ### Naming Your Post
 
-You post files must contain the date in YYY-MM-DD format, followed by a short titled with all spaces represented by a `-`. 
+You post files must contain the date in YYYY-MM-DD format, followed by a short titled with all spaces represented by a `-`. 
 
 ### Front Matter
 
