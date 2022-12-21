@@ -16,5 +16,5 @@ To start your own website using *Simple*
 ![A screenshot showing the settings described above. You will find the repository settings in the top menu of your repository, and the pages settings will be in the left hand menu of the settings page. Under 'Build and Development' you will set the source to 'Deploy from Branch' and the branch to 'main' 'root' then hit 'save'.](assets/img/post/getting-started-02.png)
 
 3. Upload your own logo and favicon to the `assets/img/` folder (optional)
-4. Edit the `_config.yml` file with your own fonts, colors, and socials
-5. Delete the existing posts and start posting
+4. Edit the `_config.yml` file with your own fonts, colors, and socials. The template is set up to support [google fonts](http://fonts.google.com), you can choose a background, font color, and two highlight colors. This is also where you will add your social media links.
+5. Delete the existing posts and images and start posting
