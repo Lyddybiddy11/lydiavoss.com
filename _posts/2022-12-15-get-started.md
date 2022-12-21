@@ -8,6 +8,9 @@ publish: true
 To start your own website using *Simple*
 
 1. Fork [the repository](https://github.com/danaamundsen/simple) on GitHub
+
+![A screenshot showing where to find the 'fork' option. On the repository page, the 'fork' option appears on the top right next to the 'watch' and 'star' buttons. there is a drop down menu from 'fork, and the last option reads '+ Create a new fork' this is the option that you want.](/assets/img/post/getting-started-01.png)
+
 2. Change your repository settings to GitHub Pages
 3. Upload your own logo and favicon to the `assets/img/` folder (optional)
 4. Edit the `_config.yml` file with your own fonts, colors, and socials
