@@ -6,7 +6,7 @@ tags: ["introduction"]
 
 ### Setting up Your First Post
 
-To write your first post on your new website, navigate to the `/_posts/` folder. If you forked the repository you will see all of the posts that I wrote in your `_posts` folder, along with the file `2022-01-01-template.md`. You can delete all of the files *except for this template file*, which you can use to quickly make new posts.
+To write your first post on your new website, navigate to the `/_posts/` folder from your repositories main directory. If you forked the repository you will see all of the posts that I wrote in your `_posts` folder, along with the file `2022-01-01-template.md`. You can delete all of the files *except for this template file*, which you will use to quickly make new posts.
 
 To delete files, you simply click on the file to view it, then hit the trash can in the top right corner.
 
@@ -52,7 +52,7 @@ The `title` is where you write the title of the post as you'd like it to appear 
 
 The body of your post can be written in [markdown](https://github.github.com/gfm/) or HTML, or a mix of the two. 
 
-If you are an artist, the most important markdown syntax will be how to insert an image. You can upload images into your `/assets/img/` folder and point to them with the following markdown.
+If you are a visual artist, the most important markdown syntax will be how to insert an image. You can upload images into your `/assets/img/` folder and point to them with the following markdown.
 
 ```
 ![Alt text](/assets/img/YOUR-IMAGE-NAME)
