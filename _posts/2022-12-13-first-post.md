@@ -55,6 +55,6 @@ The body of your post can be written in [markdown](https://github.github.com/gfm
 If you are a visual artist, the most important markdown syntax will be how to insert an image. You can upload images into your `/assets/img/` folder and point to them with the following markdown.
 
 ```
-![Alt text](/assets/img/YOUR-IMAGE-NAME)
+![Image Description](/assets/img/YOUR-IMAGE-NAME)
 ```
 
