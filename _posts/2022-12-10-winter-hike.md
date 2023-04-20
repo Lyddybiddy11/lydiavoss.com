@@ -2,7 +2,7 @@
 layout: post
 title: Winter Hike
 tags: ["example"]
-published: false
+published: true
 ---
 
 ![A digital sketch of a woman in warm clothing in the woods.](/assets/img/post/winter-hike.png)
