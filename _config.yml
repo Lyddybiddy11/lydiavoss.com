@@ -15,7 +15,7 @@ plugins:
 google_fonts: Yes #yes or no
 body_font: Lora #font used for body text
 header_font: Dawning of a New Day #font used for title and header
-background_color: "#f4dcb2"
+background_color: "#82b488"
 font_color: "#323d2f"
 color1: "#92483c" #color of links and headers
 color2: "#c5b1cf" #color of links on hover
