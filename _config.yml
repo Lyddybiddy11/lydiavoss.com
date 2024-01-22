@@ -14,7 +14,7 @@ plugins:
 # style
 google_fonts: Yes #yes or no
 body_font: Karla #font used for body text
-header_font: Neonderthaw #font used for title and header
+header_font: Dawning of a New Day #font used for title and header
 background_color: "#f4dcb2"
 font_color: "#323d2f"
 color1: "#92483c" #color of links and headers
